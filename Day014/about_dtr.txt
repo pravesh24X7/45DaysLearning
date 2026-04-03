@@ -1,0 +1,4 @@
+Although the `r2_score` is in negative for our DecisionTreeRegressor class, which means model peform terrible.
+But this is just for demonstration purpose, like how Algorithm works and nothing extra.
+
+We later use the same algorithm on another dataset.
